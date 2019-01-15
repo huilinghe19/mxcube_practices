@@ -2,7 +2,7 @@
 
 My Work
 ----------------------------------------------------------------------------------------------------------------------------
-Recent work: use Lima und Blissgarten to controll the detector camera MarCCD. 
+Recent work: use Lima und Blissgarten to controll the detector camera MarCCD. http://lima.blissgarden.org/camera/marccd/doc/index.html
 
 1. my first protocol for the development meeting MX-Group (Protokoll 10.01.2019) https://www.bessy.de/mxwiki/doku.php?id=psf:hard_and_software_development_meeting
 
