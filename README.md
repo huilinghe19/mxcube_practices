@@ -13,10 +13,10 @@ Finished Work
 
 2. PID controll parameters setting
 
-2.1 PID Controller
+ 2.1 PID Controller
 
 
-PID Controller is used to decrease the error. Once the result is not equal the expected value, then PID controller works.
+  PID Controller is used to decrease the error. Once the result is not equal the expected value, then PID controller works.
 
 The P controller works to decrease the error at once. P parameter higher, the ajust time lower. But the p parameter can not be too high, otherweise the system will be unstable. 
 
@@ -25,7 +25,7 @@ The I controller works to elimate the steady stable error. I parameter higher, t
 The D controller works to predict the trend of error changes in advance and decrease the hysteresis effect. 
 
 
-2.2 Pseudo control PID parameters configuration
+ 2.2 Pseudo control PID parameters configuration
 
 
    The pseudo control PID parameters are configured to make the motors move stable. The values are shown in the image "pid_parameters.png". 
