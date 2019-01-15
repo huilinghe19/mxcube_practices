@@ -2,8 +2,13 @@
 
 My Work
 ----------------------------------------------------------------------------------------------------------------------------
+Recent work: use Lima und Blissgarten to controll the detector camera MarCCD. 
 
-1.  PID Controller
+1. my first protocol for the development meeting MX-Group (Protokoll 10.01.2019) https://www.bessy.de/mxwiki/doku.php?id=psf:hard_and_software_development_meeting
+
+
+2. PID controll parameters setting
+2.1 PID Controller
 
 
 PID Controller is used to decrease the error. Once the result is not equal the expected value, then PID controller works.
@@ -15,7 +20,7 @@ The I controller works to elimate the steady stable error. I parameter higher, t
 The D controller works to predict the trend of error changes in advance and decrease the hysteresis effect. 
 
 
-2. Pseudo control PID parameters configuration
+2.2 Pseudo control PID parameters configuration
 
 
    The pseudo control PID parameters are configured to make the motors move stable. The values are shown in the image "pid_parameters.png". 
