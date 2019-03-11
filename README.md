@@ -8,7 +8,7 @@ use Lima und Blissgarten to controll the detector camera MarCCD. http://lima.bli
 
 Finished Work
 -----------------------------------------------------------
-1. My first protocol for the development meeting MX-Group (Protokoll 10.01.2019) https://www.bessy.de/mxwiki/doku.php?id=psf:hard_and_software_development_meeting
+1. My first protocol for the development meeting MX-Group (Protokoll 10.01.2019) https://www.bessy.de/mxwiki/doku.php?id=psf:psf.hsdm_minutes_2019-01-10
 
 
 2. PID controll parameters setting
