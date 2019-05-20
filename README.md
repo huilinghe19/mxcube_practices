@@ -16,7 +16,7 @@ Finished Work
  2.1 PID Controller
 
 
-  PID Controller is used to decrease the error. Once the result is not equal the expected value, then PID controller works.
+   PID Controller is used to decrease the error. Once the result is not equal the expected value, then PID controller works.
 
 The P controller works to decrease the error at once. P parameter higher, the ajust time lower. But the p parameter can not be too high, otherweise the system will be unstable. 
 
