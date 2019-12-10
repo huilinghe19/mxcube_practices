@@ -34,7 +34,7 @@ Steps:
 
     For getting into the container: docker exec -it mxcube3_workshop /bin/bash
 
-The mxcube3 is open in the web. See the "images".
+The mxcube3 is open in the web. See the "images/mxcube3_1.png".
 
 
 Future work:
