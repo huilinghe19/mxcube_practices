@@ -3,6 +3,10 @@
 ----------------------------------------------------------------------------------------------------------------------------
 Recent work:
 ---------------------------------------------------------
+SmarAct Tango Device Server 
+
+Future work:
+---------------------------------------------------------
 use Lima und Blissgarten to controll the detector camera MarCCD. http://lima.blissgarden.org/camera/marccd/doc/index.html
 
 
