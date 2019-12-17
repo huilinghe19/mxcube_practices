@@ -3,7 +3,7 @@
 ----------------------------------------------------------------------------------------------------------------------------
 Recent work:
 ---------------------------------------------------------
-Mxcube3
+Mxcube3 works in docker. docker has regis. But the real debian 9 system has no regis. regis and npm must be installed in debian 9 system.   
 
 Steps:
 
